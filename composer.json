@@ -1,0 +1,15 @@
+{
+    "name": "nwnisworking/php_mvc",
+    "authors": [
+        {
+            "name": "nwnisworking",
+            "email": "nwnisworking@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    },
+    "require": {}
+}
